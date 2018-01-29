@@ -1,2 +1,0 @@
-# trygithub
-test repository
